@@ -13,9 +13,9 @@ UP KEY - rotated the moving piece clockwise
 # Improvements needed
 The game runs pretty well, but some features might be improved, for instance: 
 
-  1 - The pieces might have diffenrt colors
-  2 - A feature for speeding up the piece falling down can be implemented
-  3 - The score box can be improved to look better
+  1. The pieces might have diffenrt colors
+  2. A feature for speeding up the piece falling down can be implemented
+  3. The score box can be improved to look better
 
 # License
 Please feel free to use this code as inspiration for your own projects!
