@@ -1,4 +1,4 @@
-# Tetris
+# The game
 A simple version of the Tetris game coded in Python
 
 # Instalation
