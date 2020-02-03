@@ -11,7 +11,7 @@ RIGHT KEY - moves the moving piece to the right
 UP KEY - rotated the moving piece clockwise
 
 # Improvements needed
-The game runs pretty well, but some features might be improved, for instance: 
+The game runs pretty well, but some features might be improved for a better experience, for instance: 
 
   1. The pieces might have diffenrt colors
   2. A feature for speeding up the piece falling down can be implemented
